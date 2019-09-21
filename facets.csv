@@ -1,0 +1,31 @@
+big_five,low_desc,low_term,facet,high_term,high_desc,facet_id
+Agreeableness,You are more concerned with taking care of yourself than taking time for others.,Self-focused,Altruism,Altruistic,You feel fulfilled when helping others and will go out of your way to do so.,facet_altruism
+Agreeableness,You do not shy away from contradicting others.,Contrary,Cooperation,Accommodating,You are easy to please and try to avoid confrontation.,facet_cooperation
+Agreeableness,You hold yourself in high regard and are satisfied with who you are.,Proud,Modesty,Modest,You are uncomfortable being the center of attention.,facet_modesty
+Agreeableness,You are comfortable using every trick in the book to get what you want.,Compromising,Morality,Uncompromising,You think it is wrong to take advantage of others to get ahead.,facet_morality
+Agreeableness,You think people should generally rely more on themselves than on others.,Hard-hearted,Sympathy,Empathetic,You feel what others feel and are compassionate toward them.,facet_sympathy
+Agreeableness,You are wary of other people's intentions and do not trust easily.,Cautious of others,Trust,Trusting of others,You believe the best in others and trust people easily.,facet_trust
+Conscientiousness,You are content with your level of accomplishment and do not feel the need to set ambitious goals.,Content,Achievement-striving,Driven,You set high goals for yourself and work hard to achieve them.,facet_achievement_striving
+Conscientiousness,You would rather take action immediately than spend time deliberating making a decision.,Bold,Cautiousness,Deliberate,You carefully think through decisions before making them.,facet_cautiousness
+Conscientiousness,"You do what you want, disregarding rules and obligations.",Carefree,Dutifulness,Dutiful,"You take rules and obligations seriously, even when they are inconvenient.",facet_dutifulness
+Conscientiousness,You do not make a lot of time for organization in your daily life.,Unstructured,Orderliness,Organized,You feel a strong need for structure in your life.,facet_orderliness
+Conscientiousness,You have a hard time sticking with difficult tasks for a long period of time.,Intermittent,Self-discipline,Persistent,You can tackle and stick with tough tasks.,facet_self_discipline
+Conscientiousness,You frequently doubt your ability to achieve your goals.,Self-doubting,Self-efficacy,Self-assured,You feel you have the ability to succeed in the tasks you set out to do.,facet_self_efficacy
+Extraversion,You appreciate a relaxed pace in life.,Laid-back,Activity level,Energetic,"You enjoy a fast-paced, busy schedule with many activities.",facet_activity_level
+Extraversion,"You prefer to listen than to talk, especially in group situations.",Demure,Assertiveness,Assertive,"You tend to speak up and take charge of situations, and you are comfortable leading groups.",facet_assertiveness
+Extraversion,You are generally serious and do not joke much.,Solemn,Cheerfulness,Cheerful,You are a joyful person and share that joy with the world.,facet_cheerfulness
+Extraversion,"You prefer activities that are quiet, calm, and safe.",Calm-seeking,Excitement-seeking,Excitement-seeking,You are excited by taking risks and feel bored without lots of action going on.,facet_excitement_seeking
+Extraversion,You are a private person and do not let many people in.,Reserved,Friendliness,Outgoing,You make friends easily and feel comfortable around other people.,facet_friendliness
+Extraversion,You have a strong desire to have time to yourself.,Independent,Gregariousness,Sociable,You enjoy being in the company of others.,facet_gregariousness
+Emotional Range,It takes a lot to get you angry.,Mild-tempered,Anger,Fiery,"You have a fiery temper, especially when things do not go your way.",facet_anger
+Emotional Range,You tend to feel calm and self-assured.,Self-assured,Anxiety,Prone to worry,You tend to worry about things that might happen.,facet_anxiety
+Emotional Range,You are generally comfortable with yourself as you are.,Content,Depression,Melancholy,You think quite often about the things you are unhappy about.,facet_depression
+Emotional Range,"You have control over your desires, which are not particularly intense.",Self-controlled,Immoderation,Hedonistic,You feel your desires strongly and are easily tempted by them.,facet_immoderation
+Emotional Range,You are hard to embarrass and are self-confident most of the time.,Confident,Self-consciousness,Self-conscious,You are sensitive about what others might be thinking of you.,facet_self_consciousness
+Emotional Range,You handle unexpected events calmly and effectively.,Calm under pressure,Vulnerability,Susceptible to stress,You are easily overwhelmed in stressful situations.,facet_vulnerability
+Openness,You enjoy familiar routines and prefer not to deviate from them.,Consistent,Adventurousness,Adventurous,You are eager to experience new things.,facet_adventurousness
+Openness,You are less concerned with artistic or creative activities than most people.,Unconcerned with art,Artistic interests,Appreciative of art,You enjoy beauty and seek out creative experiences.,facet_artistic_interests
+Openness,You do not frequently think about or openly express your emotions.,Dispassionate,Emotionality,Emotionally aware,You are aware of your feelings and how to express them.,facet_emotionality
+Openness,You prefer facts over fantasy.,Down-to-earth,Imagination,Imaginative,You have a wild imagination.,facet_imagination
+Openness,"You prefer dealing with the world as it is, rarely considering abstract ideas.",Concrete,Intellect,Philosophical,You are open to and intrigued by new ideas and love to explore them.,facet_intellect
+Openness,You prefer following with tradition to maintain a sense of stability.,Respectful of authority,Liberalism,Authority-challenging,You prefer to challenge authority and traditional values to effect change.,facet_liberalism
