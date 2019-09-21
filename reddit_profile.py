@@ -141,8 +141,8 @@ class reddit_profile:
                 self.big_five = getBigFive(ibm_profile)
                 self.description += 'Word Count: ' + str(ibm_profile['word_count']) + '. Profile Strength: ' + self.Strength + '.\n\n'
                 self.description += getSummary(ibm_profile) +'\n\n'+ bigFiveDescription(self.big_five)
-                self.description +='\n\nThis bot was built using the [Watson Personality Insights API](https://cloud.ibm.com/apidocs/personality-insights)'
-                self.description += '\n\n[Source code on GitHub](https://github.com/alecgraham/reddit_personality_bot)'
+                self.description +='\n\nThis profile was generated using the [Watson Personality Insights API](https://cloud.ibm.com/apidocs/personality-insights)'
+                self.description += '\n\n[code on GitHub](https://github.com/alecgraham/reddit_personality_bot)'
             else:
                 self.description += '/u/'+self.username + ' does not have enough comments to analyze.'
         except:
