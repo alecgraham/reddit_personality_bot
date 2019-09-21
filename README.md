@@ -1,6 +1,4 @@
-# Project Title
-
-Reddit Personality Profile bot
+# Reddit Personality Profile bot
 
 
 ## Dependencies
